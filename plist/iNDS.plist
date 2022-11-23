@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://kasar.store/Kasaricon.png</string>
+					<string>https://github.com/Ios-kh/store/blob/main/IMG/iNDS.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://kasar.store/Kasaricon.png</string>
+					<string>https://github.com/Ios-kh/store/blob/main/IMG/iNDS.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.iNDS</string>
+				<string>com.ioskh.iNDS</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
